@@ -17,7 +17,6 @@
         {% csrf_token %}
         <div class="mb-3">
             <label for="address">Введите адрес:</label>
-            {% comment %} {{ form }} {% endcomment %}
             <input type="text" class="form-control address" id="sddress" name="address">
         </div>
         <input type="submit" class="btn btn-primary" name="send" value="Получить информацию">
