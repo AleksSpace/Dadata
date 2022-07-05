@@ -17,7 +17,7 @@ GitHub CLI
 ```
 git clone gh repo clone AleksSpace/Dadata
 ```
-### Обновите pip и установите зависимости их файла requirements.txt
+### Обновите pip и установите зависимости из файла requirements.txt
 
 Обновление pip
 ```
